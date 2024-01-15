@@ -1,0 +1,12 @@
+#parent{
+    background-color: rgb(180, 178, 182);
+    color: blue;
+    text-align: center;
+    border-radius: 20%;
+    padding: 0.5%;
+    margin: 5%;
+}
+h1 {
+    color: rgb(231, 94, 66);
+
+}
